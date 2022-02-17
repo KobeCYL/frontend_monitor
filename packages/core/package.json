@@ -1,0 +1,25 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "core",
+  "main": "build/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobeCYL/frontend_monitor.git"
+  },
+  "keywords": [
+    "liangliang3.14"
+  ],
+  "author": "kobe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobeCYL/frontend_monitor/issues"
+  },
+  "homepage": "https://github.com/KobeCYL/frontend_monitor#readme"
+}
